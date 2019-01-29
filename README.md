@@ -1,0 +1,1 @@
+# skypool-nimiq-miner-release
